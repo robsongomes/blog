@@ -1,6 +1,6 @@
 # robson.dev
 
-Seja bem vindo ao meu site. Aqui, divulgamos os vídeos lançados no meu canal do youtube: RobsonDev ( https://www.youtube.com/RobsonDev ).
+Seja bem vindo ao meu site. Aqui, divulgamos os vídeos lançados no meu canal do youtube [RobsonDev](https://www.youtube.com/RobsonDev).
 
 ## Prisma Crash Course
 
